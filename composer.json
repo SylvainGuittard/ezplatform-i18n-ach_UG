@@ -9,5 +9,8 @@
     "branch-alias": {
       "dev-master": "1.0.x-dev"
     }
+  },
+  "config": {
+    "vendor-dir": "vendor/ezplatform-i18n/ezplatform-i18n-ach_UG"
   }
 }
